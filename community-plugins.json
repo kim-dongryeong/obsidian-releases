@@ -40171,5 +40171,12 @@
     "author": "polygonhunter",
     "description": "A slash menu that shows you what you get — type / and pick blocks, headings, and callouts from live, colored previews instead of memorizing syntax. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polygonhunter/slashosaurus"
+  },
+  {
+    "id": "drive-attachments",
+    "name": "Drive Attachments",
+    "author": "Kim Dongryeong",
+    "description": "Search Google Drive and insert durable Drive-link notes, and upload dropped files to Drive instead of the vault — with content-hash dedup.",
+    "repo": "kim-dongryeong/obsidian-drive-attachments"
   }
 ]
